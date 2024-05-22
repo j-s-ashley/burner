@@ -1,0 +1,3 @@
+/home/jordan/bubbles/burner/_builds/CMakeFiles/foo.dir
+/home/jordan/bubbles/burner/_builds/CMakeFiles/edit_cache.dir
+/home/jordan/bubbles/burner/_builds/CMakeFiles/rebuild_cache.dir
