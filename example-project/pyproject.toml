@@ -1,0 +1,11 @@
+[build-system]
+requires = ["scikit-build-core", "pybind11"]
+build-backend = "scikit_build_core.build"
+
+[project]
+name = "example"
+version = "0.0.1"
+authors = [
+	{ name="Jordan Ashley", email="jashley6@vols.utk.edu" },
+]
+description = "A slightly larger example package than my first small example package."
